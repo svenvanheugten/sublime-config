@@ -1,0 +1,12 @@
+{
+    "clients": {
+        "fsautocomplete": {
+            "enabled": true,
+            "command": ["fsautocomplete"],
+            "selector": "source.fsharp",
+            "initializationOptions": {
+                "AutomaticWorkspaceInit": true
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"F#",
+		"LSP",
+		"Package Control",
+		"Solarized Color Scheme",
+		"Terminus",
+	],
+}

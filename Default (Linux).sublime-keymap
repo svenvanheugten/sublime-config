@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["ctrl+t"],
+        "command": "toggle_terminus_panel"
+    },
+    {
+        "keys": ["ctrl+shift+space"],
+        "command": "lsp_hover"
+    }
+]
